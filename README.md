@@ -15,4 +15,4 @@ Create a web-based age calculator using JavaScript.
 ● DOM Manipulation 
 ● Working with JavaScript Date & Time 
 ● Input validation
-![image alt][https://github.com/rashmi2524/CodeAlpha_Age-calculator/blob/main/Screenshot%202025-07-02%20223851.png?raw=true]
+![image alt][https://github.com/rashmi2524/CodeAlpha_Age-calculator/blob/17bc9386a1ed64ff0ac8fab3a2a4d8c98644e66f/Screenshot%202025-07-02%20223851.png]
